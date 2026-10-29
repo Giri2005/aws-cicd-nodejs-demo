@@ -26,7 +26,7 @@ app.get("/", (req, res) => {
 <body>
   <main class="card">
     <span class="tag">AWS CI/CD Demo</span>
-    <h1>Welcome to My CI/CD Project</h1>
+    <h1>Welcome to My CI/CD Projects</h1>
     <p>This Node.js login page is deployed automatically using GitHub, AWS CodePipeline, CodeBuild and Elastic Beanstalk.</p>
     <form method="POST" action="/login">
       <label for="username">Username</label>
